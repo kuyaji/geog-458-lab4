@@ -26,3 +26,5 @@ This layer shows all the light rail stations around Chinatown as stars.
 This layer shows all the light rail stations on the basemap. It is more clear here.
 
 ![Map 3](img/image-3.png)
+
+Disclosure: No AI tools were used in this assignment.
