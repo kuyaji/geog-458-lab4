@@ -27,4 +27,8 @@ This layer shows all the light rail stations on the basemap. It is more clear he
 
 ![Map 3](img/image-3.png)
 
-Disclosure: No AI tools were used in this assignment.
+**Disclosure:** No AI tools were used in this assignment.
+
+**Resources:**
+- [Seattle Light Rail Data](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::seattle-transportation-plan-transit-element/explore?layer=14&location=47.600405%2C-122.313457%2C13)
+- Created via [Mapbox](https://www.mapbox.com/) and [QGIS](https://qgis.org/).
